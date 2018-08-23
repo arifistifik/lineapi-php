@@ -31,7 +31,7 @@ class Line {
 	protected $poll_query_path = '/P4';
 	protected $chan_query_path = '/CH4';
 	protected $wait_for_mobile_path = '/Q';
-	protected $host = 'gd2.line.naver.jp';
+	protected $host = 'legy-jp.line.naver.jp';
 
 /*
 	protected $UserAgent = 'DESKTOP:MAC:10.10.2-YOSEMITE-x64(4.5.0)';
